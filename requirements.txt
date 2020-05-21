@@ -21,6 +21,8 @@ psutil==5.7.0
 py-cpuinfo==5.0.0
 pycparser==2.20
 PyInstaller==3.6
+pywin32==227
+pywin32-ctypes==0.2.0
 requests==2.23.0
 six==1.14.0
 soupsieve==2.0
